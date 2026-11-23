@@ -11,7 +11,7 @@ c = int(input("enter the value of c: "))
 d = int(input("enter the value of d: "))
 
 # a=10, b=20 and c=30 d=40
-if ( a < b):
+if ( a > b):
     print(f"{a} is largest")
 elif ( b > c ): 
     print(f"{b} is the largest ")
